@@ -1,0 +1,16 @@
+.home{
+    background-color: #1abc9c;
+}
+
+img {
+    width: 250px;
+}
+
+.fa-star:before {
+    content: "\f005";
+}
+
+.line {
+    height: 4px;
+    width: 80px;
+}
